@@ -1,20 +1,12 @@
 # weather_app
-<<<<<<< HEAD
-flutter weather app
-=======
 
-A new Flutter project.
+- weather of the current location
+- weather of popular locations
+- Search any city
+- weather details
+<img width="199" alt="image" src="https://github.com/Jinil-Chandarana/weather_app/assets/94914338/63a6b8a9-8fc2-4aeb-98c4-3ea9e8ce67da">
 
-## Getting Started
+<img width="200" alt="image" src="https://github.com/Jinil-Chandarana/weather_app/assets/94914338/d18b6ca1-7359-4f97-b01b-683d94f9b203">
 
-This project is a starting point for a Flutter application.
+<img width="199" alt="image" src="https://github.com/Jinil-Chandarana/weather_app/assets/94914338/7c439824-efc2-4467-bbdd-d5d224b35cc3">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> a803ee4 (weather app)
